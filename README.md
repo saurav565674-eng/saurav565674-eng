@@ -2,11 +2,11 @@
 
 ### 📊  MCA Student | B.Sc. Computer Science Graduate
 
-Welcome to my GitHub profile! I'm **Saurav Patil**, passionate about **Data Analytics, Data Visualization, and Business Intelligence**.
+Welcome to my GitHub profile! I'm **Saurav Patil**.
 
-🎓 I completed my **B.Sc. Computer Science** from **Dr. D. Y. Patil Arts, Commerce and Science College, Akurdi, Pune** and I am currently **pursuing MCA at MES IMCC, Kothrud, Pune**.
+🎓 I have completed my **B.Sc. Computer Science** from **Dr. D. Y. Patil Arts, Commerce and Science College, Akurdi, Pune** and I am currently **pursuing MCA at MES IMCC, Kothrud, Pune**.
 
-I enjoy working with data, creating interactive dashboards, discovering insights, and solving real-world problems using data.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saurav Patil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saurav565674@gmail.com) 
